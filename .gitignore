@@ -1,0 +1,10 @@
+# Ignore .terraform files
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.backup
+*.tfplan
+.terraform/
+
+# Ignore Node.js files
+node_modules/
+package-lock.json
