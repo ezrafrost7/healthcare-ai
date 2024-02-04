@@ -1,0 +1,2 @@
+# Welcome
+This repository is for creating a healthcare app that is going to be used to help other be more aware about their own health. We hope that this will be a way for people to de-mystify their healthcare issues by allowing users to better understand their conditions and what to do to help their health. The MVP for this app is planned to be a chat bot that works via texts on your phone to help you get information as the client needs it.
